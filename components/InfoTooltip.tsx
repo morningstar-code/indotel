@@ -89,7 +89,7 @@ export default function InfoTooltip({ content, children, hideFooter = false }: I
               <div className="pt-2 mt-1 border-t border-slate-200 text-[0.68rem] text-slate-600">
                 <p className="mb-1">
                   Para profundizar, puede solicitar una nota detallada a la IA usando el módulo
-                  <span className="font-semibold text-slate-900"> "Recomendaciones para la Presidencia de INDOTEL"</span>
+                  <span className="font-semibold text-slate-900"> &quot;Recomendaciones para la Presidencia de INDOTEL&quot;</span>
                   en la columna derecha.
                 </p>
                 <button

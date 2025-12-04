@@ -167,7 +167,7 @@ export default function ComparisonPanel({
                     {categorySourcesA && categorySourcesA.length > 0 && (
                       <div className="mb-2 text-[0.7rem] text-slate-700">
                         <p className="font-semibold mb-1">
-                          Documentos normativos clave para "{category}":
+                          Documentos normativos clave para &quot;{category}&quot;:
                         </p>
                         <ul className="list-disc list-inside space-y-1">
                           {categorySourcesA.map((src) => (
@@ -252,7 +252,7 @@ export default function ComparisonPanel({
                     {categorySourcesB && categorySourcesB.length > 0 && (
                       <div className="mb-2 text-[0.7rem] text-slate-700">
                         <p className="font-semibold mb-1">
-                          Documentos normativos clave para "{category}":
+                          Documentos normativos clave para &quot;{category}&quot;:
                         </p>
                         <ul className="list-disc list-inside space-y-1">
                           {categorySourcesB.map((src) => (
