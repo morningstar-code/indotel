@@ -249,27 +249,34 @@ export default function AnalyticsDashboard({
                             {score.commonTagIds.map((tagId: string) => {
                               const label = formatTag(tagId);
 
-                              const tooltipParts: string[] = [
-                                `Coincidencia en ${displayName}: ${label}.`,
-                              ];
-
-                              if (practiceA?.summary) {
-                                tooltipParts.push(
-                                  `${countryA.name}: ${getShortSummary(practiceA.summary)}`
-                                );
-                              }
-
-                              if (practiceB?.summary) {
-                                tooltipParts.push(
-                                  `${countryB.name}: ${getShortSummary(practiceB.summary)}`
-                                );
-                              }
-
-                              const tooltipText = tooltipParts.join(" ");
-
                               return (
-                                <li key={tagId} title={tooltipText}>
-                                  {label}
+                                <li key={tagId}>
+                                  <InfoTooltip
+                                    hideFooter
+                                    content={
+                                      <div className="space-y-2">
+                                        <p className="font-semibold text-slate-900 text-[0.7rem]">
+                                          Coincidencias en {displayName}: {label}
+                                        </p>
+                                        {practiceA?.summary && (
+                                          <p className="text-[0.7rem] text-slate-700">
+                                            <span className="font-semibold">{countryA.name}:</span>{" "}
+                                            {getShortSummary(practiceA.summary)}
+                                          </p>
+                                        )}
+                                        {practiceB?.summary && (
+                                          <p className="text-[0.7rem] text-slate-700">
+                                            <span className="font-semibold">{countryB.name}:</span>{" "}
+                                            {getShortSummary(practiceB.summary)}
+                                          </p>
+                                        )}
+                                      </div>
+                                    }
+                                  >
+                                    <span className="underline decoration-dotted decoration-sky-300 cursor-help">
+                                      {label}
+                                    </span>
+                                  </InfoTooltip>
                                 </li>
                               );
                             })}
