@@ -1,0 +1,311 @@
+[
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA). Administración del espectro - Bandas. Modalidad compartida. Asuntos Satelitales. Reglamento Sobre Administración, G...",
+        "details": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\nAdministración del espectro - Bandas\nModalidad compartida\nAsuntos Satelitales\nReglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\nProblemas de Interferencias\nRadioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\nHertz: Sistema de Gestión del Espectro Radioeléctrico\nCompetencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado. Tecnologías de la Información y Comunicación (TIC). Normativa Fundamental. Servicio Universal. Ciberseguridad",
+        "details": "Indicadores de Mercado\nTecnologías de la Información y Comunicación (TIC)\nNormativa Fundamental\nServicio Universal\nCiberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad. Protección del usuario",
+        "details": "Conversatorio sobre ciberseguridad\nProtección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC. Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación. Tu Línea es Tuya. Adquisición de Equipos. Portabilidad Numérica",
+        "details": "Reglamento de Clientes de los Servicios TIC\nPrograma de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\nTu Línea es Tuya\nAdquisición de Equipos\nPortabilidad Numérica\nAtención a Usuarios y Reclamos\nConsejos para usuarios\nPrograma Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\nTecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI). Compartición de la infraestructura",
+        "details": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\nMuestra 5G\nCompartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva. Buscador de Convenios de Interconexión. Interconexión y Acceso. Telecomunicaciones de emergencia",
+        "details": "Compartición de Infraestructura Pasiva\nBuscador de Convenios de Interconexión\nInterconexión y Acceso\nTelecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia. Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes. Suspensión de cortes de servicios esenciales a clientes vulnerables por fa...",
+        "details": "Reglamento Nacional de Contingencia\nPrograma de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\nSuspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\nConvenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\nHomologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos. Inscripción de equipos y procedimientos",
+        "details": "Homologación de Equipos\nInscripción de equipos y procedimientos\nNovedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Reglamento para el otorgamiento de Licencias en Telecomunicaciones. Plan Nacional de Frecuencias. Bandas de frecuencias del espectro radioeléctrico de uso libre. Modificaciones al Plan Nacional de ...",
+        "details": "Reglamento para el otorgamiento de Licencias en Telecomunicaciones\nPlan Nacional de Frecuencias\nBandas de frecuencias del espectro radioeléctrico de uso libre\nModificaciones al Plan Nacional de Frecuencias (2013,2016,2017,2019,2020,2022)\nCompartición de espectro\nReglamento para la Autorización de Prestación de Servicio de Estación Espacial\nmodificación\nReglamento para la Autorización de Prestación de Servicio de Estación Espacialy sumodificación\nCompetencia Económica",
+        "tags": [
+          "infraestructura",
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Información de competencia económica para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre competencia económica en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información de ciberseguridad para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre ciberseguridad en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información de protección del usuario para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre protección del usuario en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información de tecnologías emergentes para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre tecnologías emergentes en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información de compartición de la infraestructura para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre compartición de la infraestructura en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información de telecomunicaciones de emergencia para Bolivia disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre telecomunicaciones de emergencia en Bolivia, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones. Listado de equipos homologados. Procedimientos de evaluación de la conformidad en materia de telecomuni...",
+        "details": "Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones\nListado de equipos homologados\nProcedimientos de evaluación de la conformidad en materia de telecomunicaciones",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "flag": "🇧🇷",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información de espectro radioeléctrico para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre espectro radioeléctrico en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información de competencia económica para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre competencia económica en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información de ciberseguridad para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre ciberseguridad en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información de protección del usuario para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre protección del usuario en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información de tecnologías emergentes para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre tecnologías emergentes en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información de compartición de la infraestructura para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre compartición de la infraestructura en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2022. Sistema de gestión de recursos de numeración. Servicios Públicos y de Emergencia (SUP, por sus...",
+        "details": "Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2022\nSistema de gestión de recursos de numeración\nServicios Públicos y de Emergencia (SUP, por sus siglas en portugués)\nHomologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información de homologación de productos y dispositivos para Brasil disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre homologación de productos y dispositivos en Brasil, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información de espectro radioeléctrico para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre espectro radioeléctrico en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información de competencia económica para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre competencia económica en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información de ciberseguridad para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre ciberseguridad en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información de protección del usuario para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre protección del usuario en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información de tecnologías emergentes para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre tecnologías emergentes en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información de compartición de la infraestructura para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre compartición de la infraestructura en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información de telecomunicaciones de emergencia para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre telecomunicaciones de emergencia en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información de homologación de productos y dispositivos para Mexico disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre homologación de productos y dispositivos en Mexico, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información de espectro radioeléctrico para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre espectro radioeléctrico en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información de competencia económica para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre competencia económica en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información de ciberseguridad para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre ciberseguridad en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información de protección del usuario para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre protección del usuario en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información de tecnologías emergentes para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre tecnologías emergentes en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información de compartición de la infraestructura para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre compartición de la infraestructura en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información de telecomunicaciones de emergencia para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre telecomunicaciones de emergencia en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información de homologación de productos y dispositivos para Paraguay disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre homologación de productos y dispositivos en Paraguay, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "rep_dominicana",
+    "name": "Rep Dominicana",
+    "flag": "🇩🇴",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información de espectro radioeléctrico para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre espectro radioeléctrico en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información de competencia económica para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre competencia económica en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información de ciberseguridad para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre ciberseguridad en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información de protección del usuario para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre protección del usuario en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información de tecnologías emergentes para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre tecnologías emergentes en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información de compartición de la infraestructura para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre compartición de la infraestructura en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información de telecomunicaciones de emergencia para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre telecomunicaciones de emergencia en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información de homologación de productos y dispositivos para Rep Dominicana disponible en la página oficial de REGULATEL.",
+        "details": "Para obtener información detallada sobre homologación de productos y dispositivos en Rep Dominicana, por favor consulta la página oficial de REGULATEL en https://regulatel.indotel.gob.do",
+        "tags": []
+      }
+    }
+  }
+]

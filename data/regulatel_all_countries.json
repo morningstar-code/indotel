@@ -1,0 +1,717 @@
+[
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "peru",
+    "name": "Peru",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rep_dominicana",
+    "name": "Rep Dominicana",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  }
+]

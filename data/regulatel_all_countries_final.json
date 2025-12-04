@@ -1,0 +1,305 @@
+[
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA) Administración del espectro - Bandas A...",
+        "details": "- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Cuadro de Atribución de Bandas de Frecuencias de la República Argentina (CABFRA)\n- Administración del espectro - Bandas\n- Administración del espectro - Bandas\n- Modalidad compartida\n- Modalidad compartida\n- Asuntos Satelitales\n- Asuntos Satelitales\n- Reglamento Sobre Administración, Gestión y Control del Espectro Radioeléctrico\n- Problemas de Interferencias\n- Problemas de Interferencias\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Radioaficionados, Estaciones Repetidoras y Señales Distintivas Especiales\n- Hertz: Sistema de Gestión del Espectro Radioeléctrico\n- Competencia Económica",
+        "tags": [
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Indicadores de Mercado Indicadores de Mercado Tecnologías de la Información y Comunicación (TIC) Normativa Fundamental Normativa Fundamental Servicio Universal Servicio Universal Ciberseguridad",
+        "details": "- Indicadores de Mercado\n- Indicadores de Mercado\n- Tecnologías de la Información y Comunicación (TIC)\n- Normativa Fundamental\n- Normativa Fundamental\n- Servicio Universal\n- Servicio Universal\n- Ciberseguridad",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Ciberseguridad": {
+        "summary": "Conversatorio sobre ciberseguridad Protección del usuario",
+        "details": "- Conversatorio sobre ciberseguridad\n- Protección del usuario",
+        "tags": [
+          "ciberseguridad"
+        ]
+      },
+      "Protección del usuario": {
+        "summary": "Reglamento de Clientes de los Servicios TIC Reglamento de Clientes de los Servicios TIC Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación Programa de Alfabetizació...",
+        "details": "- Reglamento de Clientes de los Servicios TIC\n- Reglamento de Clientes de los Servicios TIC\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Programa de Alfabetización en Medios y Tecnologías de la Información y la Comunicación\n- Tu Línea es Tuya\n- Tu Línea es Tuya\n- Adquisición de Equipos\n- Adquisición de Equipos\n- Portabilidad Numérica\n- Portabilidad Numérica\n- Atención a Usuarios y Reclamos\n- Atención a Usuarios y Reclamos\n- Consejos para usuarios\n- Consejos para usuarios\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Programa Nacional de Prevención y Concientización del Grooming o Ciberacoso contra Niñas, Niños y Adolescentes\n- Tecnologías emergentes",
+        "tags": [
+          "portabilidad"
+        ]
+      },
+      "Tecnologías emergentes": {
+        "summary": "Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI) Muestra 5G Compartición de la ...",
+        "details": "- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Reglamento General del Servicio de Telecomunicaciones Fiables e Inteligentes (STeFI)\n- Muestra 5G\n- Compartición de la infraestructura",
+        "tags": [
+          "5g",
+          "infraestructura"
+        ]
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Compartición de Infraestructura Pasiva Compartición de Infraestructura Pasiva Buscador de Convenios de Interconexión Buscador de Convenios de Interconexión Interconexión y Acceso Interconexión y Acces...",
+        "details": "- Compartición de Infraestructura Pasiva\n- Compartición de Infraestructura Pasiva\n- Buscador de Convenios de Interconexión\n- Buscador de Convenios de Interconexión\n- Interconexión y Acceso\n- Interconexión y Acceso\n- Telecomunicaciones de emergencia",
+        "tags": [
+          "infraestructura",
+          "emergencia"
+        ]
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento Nacional de Contingencia Reglamento Nacional de Contingencia Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes Programa de Asistencia a Prestadores de Ser...",
+        "details": "- Reglamento Nacional de Contingencia\n- Reglamento Nacional de Contingencia\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Programa de Asistencia a Prestadores de Servicios TIC ante emergencias y catástrofes\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Suspensión de cortes de servicios esenciales a clientes vulnerables por falta de pago\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Convenio entre ENACOM y Ministerio de Seguridad para implementar el servicio gratuito de localización de llamadas de emergencia\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Homologación de Equipos Homologación de Equipos Inscripción de equipos y procedimientos Inscripción de equipos y procedimientos Novedades",
+        "details": "- Homologación de Equipos\n- Homologación de Equipos\n- Inscripción de equipos y procedimientos\n- Inscripción de equipos y procedimientos\n- Novedades",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Reglamento para el otorgamiento de Licencias en Telecomunicaciones Reglamento para el otorgamiento de Licencias en Telecomunicaciones Plan Nacional de Frecuencias Plan Nacional de Frecuencias Bandas d...",
+        "details": "- Reglamento para el otorgamiento de Licencias en Telecomunicaciones\n- Reglamento para el otorgamiento de Licencias en Telecomunicaciones\n- Plan Nacional de Frecuencias\n- Plan Nacional de Frecuencias\n- Bandas de frecuencias del espectro radioeléctrico de uso libre\n- Modificaciones al Plan Nacional de Frecuencias (2013,2016,2017,2019,2020,2022)\n- Compartición de espectro\n- Compartición de espectro\n- Reglamento para la Autorización de Prestación de Servicio de Estación Espacial\n- modificación\n- Reglamento para la Autorización de Prestación de Servicio de Estación Espacialy sumodificación\n- Competencia Económica",
+        "tags": [
+          "infraestructura",
+          "competencia"
+        ]
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones Listado de equ...",
+        "details": "- Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones\n- Instructivo para la Emisión de Certificados de Homologación de Equipos de Telecomunicaciones\n- Listado de equipos homologados\n- Listado de equipos homologados\n- Procedimientos de evaluación de la conformidad en materia de telecomunicaciones\n- Procedimientos de evaluación de la conformidad en materia de telecomunicaciones",
+        "tags": [
+          "homologación"
+        ]
+      }
+    }
+  },
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2022 Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2...",
+        "details": "- Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2022\n- Reglamento de Numeración de Servicios de Telecomunicaciones- Anexo a la Resolución n° 749, 15/03/2022\n- Sistema de gestión de recursos de numeración\n- Sistema de gestión de recursos de numeración\n- Servicios Públicos y de Emergencia (SUP, por sus siglas en portugués)\n- Servicios Públicos y de Emergencia (SUP, por sus siglas en portugués)\n- Homologación de productos y dispositivos",
+        "tags": [
+          "emergencia",
+          "homologación"
+        ]
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "rep_dominicana",
+    "name": "Rep Dominicana",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría.",
+        "tags": []
+      }
+    }
+  }
+]

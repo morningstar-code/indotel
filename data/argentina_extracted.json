@@ -1,0 +1,46 @@
+{
+  "id": "argentina",
+  "name": "Unknown",
+  "practices": {
+    "Espectro radioeléctrico": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Competencia Económica": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Ciberseguridad": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Protección del usuario": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Tecnologías emergentes": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Compartición de la infraestructura": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Telecomunicaciones de emergencia": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    },
+    "Homologación de productos y dispositivos": {
+      "summary": "Información no disponible en la fuente.",
+      "details": "No se pudo extraer información específica para esta categoría.",
+      "tags": []
+    }
+  }
+}

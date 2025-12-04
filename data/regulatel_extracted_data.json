@@ -1,0 +1,519 @@
+[
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "flag": "🇧🇷",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "mexico",
+    "name": "México",
+    "flag": "🇲🇽",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "peru",
+    "name": "Perú",
+    "flag": "🇵🇪",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "rep_dominicana",
+    "name": "República Dominicana",
+    "flag": "🇩🇴",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "practices": {
+      "Espectro radioeléctrico": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Competencia Económica": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Ciberseguridad": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Protección del usuario": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Tecnologías emergentes": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Compartición de la infraestructura": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Telecomunicaciones de emergencia": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      },
+      "Homologación de productos y dispositivos": {
+        "summary": "Información no disponible en la fuente.",
+        "details": "No se pudo extraer información específica para esta categoría desde la página web de REGULATEL.",
+        "tags": []
+      }
+    }
+  }
+]
