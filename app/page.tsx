@@ -40,116 +40,138 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50">
+    <div className="min-h-screen">
       <Header />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Paso a paso para guiar al usuario */}
-        <section className="mb-8 bg-white border border-slate-200 rounded-xl p-4 md:p-5 shadow-sm">
-          <h2 className="text-xs font-semibold tracking-[0.22em] text-slate-600 uppercase mb-3">
-            Proceso de análisis comparativo
+      <main className="mx-auto max-w-[1400px] px-4 pb-10 pt-6 sm:px-6 lg:px-8 lg:pt-8">
+        <section className="mb-8 rounded-2xl border border-slate-200/80 bg-white/95 p-5 shadow-sm backdrop-blur md:p-7">
+          <div className="flex flex-col gap-5 lg:flex-row lg:items-start lg:justify-between">
+            <div className="max-w-3xl">
+              <span className="inline-flex rounded-full border border-sky-200 bg-sky-50 px-3 py-1 text-[0.65rem] font-semibold uppercase tracking-[0.18em] text-sky-700">
+                Comparador inteligente REGULATEL
+              </span>
+              <h2 className="mt-3 text-2xl font-bold tracking-tight text-slate-900 md:text-3xl">
+                Identifica brechas regulatorias y prioriza acciones para INDOTEL
+              </h2>
+              <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-600 md:text-[0.95rem]">
+                Selecciona dos países, revisa su convergencia por categoría y usa el panel
+                de IA para convertir hallazgos en recomendaciones accionables.
+              </p>
+            </div>
+            <div className="grid grid-cols-1 gap-2 text-xs sm:grid-cols-3 sm:text-[0.78rem]">
+              <div className="rounded-xl border border-slate-200 bg-slate-50 px-3 py-2">
+                <div className="font-semibold text-slate-900">País A</div>
+                <div className="text-slate-600">{countryA?.name || "No seleccionado"}</div>
+              </div>
+              <div className="rounded-xl border border-slate-200 bg-slate-50 px-3 py-2">
+                <div className="font-semibold text-slate-900">País B</div>
+                <div className="text-slate-600">{countryB?.name || "No seleccionado"}</div>
+              </div>
+              <div className="rounded-xl border border-slate-200 bg-slate-50 px-3 py-2">
+                <div className="font-semibold text-slate-900">Categoría activa</div>
+                <div className="text-slate-600">{selectedCategory}</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="mb-8 rounded-2xl border border-slate-200/80 bg-white/95 p-5 shadow-sm md:p-6">
+          <h2 className="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-slate-500">
+            Flujo de análisis comparativo
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs md:text-sm">
-            <div className={`flex items-start gap-3 rounded-lg p-3 border ${stepClasses(1)} transition-colors`}>
-              <div className="flex h-7 w-7 items-center justify-center rounded-full bg-white border border-slate-300 text-xs font-bold text-slate-700">
+          <div className="grid grid-cols-1 gap-3 text-xs md:grid-cols-3 md:text-sm">
+            <div className={`flex items-start gap-3 rounded-xl border p-3.5 ${stepClasses(1)} transition-colors`}>
+              <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-slate-300 bg-white text-xs font-bold text-slate-700">
                 1
               </div>
               <div>
-                <div className="font-semibold uppercase tracking-[0.14em] text-[0.68rem] mb-1">
-                  Seleccione el país de referencia (A)
-                </div>
-                <p className="text-[0.72rem] md:text-xs opacity-90">
-                  Usualmente República Dominicana como punto de partida para el análisis.
+                <p className="mb-1 font-semibold uppercase tracking-[0.14em] text-[0.66rem]">
+                  País de referencia
+                </p>
+                <p className="text-[0.73rem] opacity-90 md:text-xs">
+                  Define el país base del diagnóstico (A).
                 </p>
               </div>
             </div>
-            <div className={`flex items-start gap-3 rounded-lg p-3 border ${stepClasses(2)} transition-colors`}>
-              <div className="flex h-7 w-7 items-center justify-center rounded-full bg-white border border-slate-300 text-xs font-bold text-slate-700">
+            <div className={`flex items-start gap-3 rounded-xl border p-3.5 ${stepClasses(2)} transition-colors`}>
+              <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-slate-300 bg-white text-xs font-bold text-slate-700">
                 2
               </div>
               <div>
-                <div className="font-semibold uppercase tracking-[0.14em] text-[0.68rem] mb-1">
-                  Seleccione el país comparador (B)
-                </div>
-                <p className="text-[0.72rem] md:text-xs opacity-90">
-                  El dashboard generará automáticamente la comparación regulatoria bilateral.
+                <p className="mb-1 font-semibold uppercase tracking-[0.14em] text-[0.66rem]">
+                  País comparador
+                </p>
+                <p className="text-[0.73rem] opacity-90 md:text-xs">
+                  Selecciona el benchmark regional (B).
                 </p>
               </div>
             </div>
-            <div className={`flex items-start gap-3 rounded-lg p-3 border ${stepClasses(3)} transition-colors`}>
-              <div className="flex h-7 w-7 items-center justify-center rounded-full bg-white border border-slate-300 text-xs font-bold text-slate-700">
+            <div className={`flex items-start gap-3 rounded-xl border p-3.5 ${stepClasses(3)} transition-colors`}>
+              <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-slate-300 bg-white text-xs font-bold text-slate-700">
                 3
               </div>
               <div>
-                <div className="font-semibold uppercase tracking-[0.14em] text-[0.68rem] mb-1">
-                  Revise sectores y recomendaciones
-                </div>
-                <p className="text-[0.72rem] md:text-xs opacity-90">
-                  Explore los sectores regulatorios y las recomendaciones priorizadas para INDOTEL.
+                <p className="mb-1 font-semibold uppercase tracking-[0.14em] text-[0.66rem]">
+                  Evaluación y acciones
+                </p>
+                <p className="text-[0.73rem] opacity-90 md:text-xs">
+                  Revisa brechas por categoría y solicita recomendaciones IA.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Selector de países */}
-        <div className="mb-8">
-          <CountrySelector
-            countries={countries}
-            selectedCountryId={selectedCountryA}
-            onSelectCountry={setSelectedCountryA}
-            label="País Principal (A)"
-          />
-          <CountrySelector
-            countries={countries.filter((c) => c.id !== selectedCountryA)}
-            selectedCountryId={selectedCountryB}
-            onSelectCountry={setSelectedCountryB}
-            label="Comparar con (País B)"
-            comparisonMode={true}
-          />
-        </div>
-
-        {/* Dashboard Analítico - Solo se muestra si hay dos países seleccionados */}
-        {countryA && countryB && (
-          <>
-            <ExecutiveSummary
-              countryA={countryA}
-              countryB={countryB}
+        <section className="mb-8 rounded-2xl border border-slate-200/80 bg-white/95 p-5 shadow-sm md:p-6">
+          <div className="grid grid-cols-1 gap-5 xl:grid-cols-2">
+            <CountrySelector
+              countries={countries}
+              selectedCountryId={selectedCountryA}
+              onSelectCountry={setSelectedCountryA}
+              label="País principal (A)"
             />
+            <CountrySelector
+              countries={countries.filter((c) => c.id !== selectedCountryA)}
+              selectedCountryId={selectedCountryB}
+              onSelectCountry={setSelectedCountryB}
+              label="País comparador (B)"
+              comparisonMode={true}
+            />
+          </div>
+        </section>
+
+        {countryA && countryB && (
+          <section className="mb-8 space-y-6">
+            <ExecutiveSummary countryA={countryA} countryB={countryB} />
             <AnalyticsDashboard
               countryA={countryA}
               countryB={countryB}
               allCountries={countries}
             />
-            <ComparisonTable
-              countryA={countryA}
-              countryB={countryB}
-            />
-          </>
+            <ComparisonTable countryA={countryA} countryB={countryB} />
+          </section>
         )}
 
-        {/* Layout principal: 3 columnas */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
-          {/* Columna izquierda: Categorías */}
-          <div className="lg:col-span-2">
-            <CategoryTabs
-              selectedCategory={selectedCategory}
-              onSelectCategory={setSelectedCategory}
-              countryAName={countryA?.name}
-              countryBName={countryB?.name}
-            />
-          </div>
+        <div className="grid grid-cols-1 gap-6 xl:grid-cols-12">
+          <aside className="xl:col-span-3">
+            <div className="xl:sticky xl:top-6">
+              <CategoryTabs
+                selectedCategory={selectedCategory}
+                onSelectCategory={setSelectedCategory}
+                countryAName={countryA?.name}
+                countryBName={countryB?.name}
+              />
+            </div>
+          </aside>
 
-          {/* Columna central: Comparación */}
-          <div className="lg:col-span-7">
+          <section className="xl:col-span-6">
             <ComparisonPanel
               countryA={countryA}
               countryB={countryB}
               category={selectedCategory}
             />
-          </div>
+          </section>
 
-          {/* Columna derecha: Recomendaciones IA + Chat comparativo */}
-          <div id="ai-panel" className="lg:col-span-3 space-y-4">
+          <aside id="ai-panel" className="space-y-4 xl:col-span-3">
             <AIRecommendations
               countryA={countryA}
               countryB={countryB}
@@ -160,7 +182,7 @@ export default function Home() {
               countryB={countryB}
               category={selectedCategory}
             />
-          </div>
+          </aside>
         </div>
       </main>
     </div>

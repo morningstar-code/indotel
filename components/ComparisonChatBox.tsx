@@ -25,12 +25,12 @@ export default function ComparisonChatBox({
     : `Contexto general: estás asistiendo a INDOTEL en el análisis comparado de marcos regulatorios de telecomunicaciones en América Latina usando el portal de mejores prácticas de REGULATEL. No hay dos países seleccionados simultáneamente, responde en español de forma breve y orientada a toma de decisiones.`;
 
   return (
-    <div className="mt-4 bg-white rounded-xl border border-slate-200 p-5 shadow-sm space-y-3">
-      <h3 className="text-sm font-bold text-slate-900 mb-1 flex items-center">
+    <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+      <h3 className="mb-1 flex items-center text-sm font-bold text-slate-900">
         <span className="mr-2">💬</span>
         Chat comparativo (IA)
       </h3>
-      <p className="text-[0.7rem] text-slate-600 mb-2">
+      <p className="mb-3 text-[0.72rem] leading-relaxed text-slate-600">
         Formula preguntas abiertas sobre las similitudes, diferencias o detalles adicionales del marco regulatorio de los países seleccionados.
       </p>
       <InlineChat initialQuestion={initialQuestion} context={context} />

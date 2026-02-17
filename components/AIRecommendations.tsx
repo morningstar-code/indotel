@@ -95,12 +95,12 @@ export default function AIRecommendations({
   };
 
   return (
-    <div className="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
-      <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center">
+    <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+      <h3 className="mb-1 flex items-center text-base font-bold text-slate-900">
         <span className="mr-2">🤖</span>
-        Recomendaciones para la Presidencia de INDOTEL (IA)
+        Recomendaciones IA
       </h3>
-      <p className="text-[0.7rem] text-slate-600 mb-4">
+      <p className="mb-4 text-[0.72rem] leading-relaxed text-slate-600">
         Borrador generado automáticamente a partir de las prácticas comparadas. Debe ser validado por los equipos técnicos antes de su adopción.
       </p>
 
@@ -114,26 +114,26 @@ export default function AIRecommendations({
             onClick={generateRecommendations}
             disabled={loading}
             className={`
-              w-full px-4 py-3 rounded-lg font-semibold transition-all
+              w-full rounded-xl px-4 py-3 text-sm font-semibold transition-all
               ${
                 loading
                   ? "bg-slate-200 text-slate-500 cursor-not-allowed"
-                  : "bg-sky-600 text-white hover:bg-sky-700 shadow-sm"
+                  : "bg-gradient-to-r from-sky-600 to-cyan-500 text-white hover:from-sky-700 hover:to-cyan-600 shadow-sm"
               }
             `}
           >
-            {loading ? "Generando nota recomendatoria..." : "Generar nota recomendatoria"}
+            {loading ? "Generando recomendación..." : "Generar recomendación ejecutiva"}
           </button>
 
           {error && (
-            <div className="mt-4 p-4 bg-amber-50 border border-amber-300 rounded-lg">
+            <div className="mt-4 rounded-xl border border-amber-300 bg-amber-50 p-4">
               <p className="text-amber-800 text-sm">{error}</p>
             </div>
           )}
 
           {recommendations && (
-            <div className="mt-4 bg-slate-50 border border-slate-200 rounded-lg">
-              <div className="max-h-96 overflow-y-auto px-4 py-3 space-y-2">
+            <div className="mt-4 rounded-xl border border-slate-200 bg-slate-50">
+              <div className="max-h-[32rem] space-y-2 overflow-y-auto px-4 py-3">
                 {formattedBlocks.map((block, idx) => {
                   const isHeading =
                     idx === 0 || /^\s*\d+\./.test(block) || block.length < 90;
@@ -142,7 +142,7 @@ export default function AIRecommendations({
                     <p
                       key={idx}
                       className={
-                        "text-[0.74rem] leading-relaxed " +
+                        "text-[0.76rem] leading-relaxed " +
                         (isHeading
                           ? "font-semibold text-slate-900 mt-1"
                           : "text-slate-700")

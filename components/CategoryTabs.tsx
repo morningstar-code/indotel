@@ -89,8 +89,11 @@ export default function CategoryTabs({
   };
 
   return (
-    <div className="bg-white rounded-xl border border-slate-200 p-4 shadow-sm">
-      <h3 className="text-sm font-semibold text-slate-800 mb-4 uppercase tracking-wide">Categorías</h3>
+    <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
+      <h3 className="mb-1 text-sm font-semibold text-slate-900">Categorías de análisis</h3>
+      <p className="mb-4 text-xs text-slate-500">
+        Selecciona una categoría para actualizar comparación, IA y métricas.
+      </p>
       <div className="space-y-2">
         {categories.map((category) => {
           const desc = categoryDescriptions[category];
@@ -120,18 +123,23 @@ export default function CategoryTabs({
               }
             >
               <button
-              onClick={() => onSelectCategory(category)}
-              className={`
-              w-full text-left px-4 py-3 rounded-lg transition-all
-              ${
-                selectedCategory === category
-                  ? "bg-sky-600 text-white font-semibold shadow-sm"
-                  : "bg-slate-50 text-slate-700 hover:bg-slate-100 border border-slate-200"
-              }
-            `}
-          >
-            {categoryShortNames[category]}
-          </button>
+                onClick={() => onSelectCategory(category)}
+                className={`
+                w-full rounded-xl border px-4 py-3 text-left text-sm transition-all
+                ${
+                  selectedCategory === category
+                    ? "border-sky-300 bg-gradient-to-r from-sky-600 to-cyan-500 text-white shadow-sm"
+                    : "border-slate-200 bg-slate-50 text-slate-700 hover:border-sky-200 hover:bg-sky-50/60"
+                }
+              `}
+              >
+                <span className="font-semibold">{categoryShortNames[category]}</span>
+                {selectedCategory !== category && (
+                  <span className="block pt-0.5 text-[0.68rem] text-slate-500">
+                    Ver detalles y recomendaciones IA
+                  </span>
+                )}
+              </button>
             </InfoTooltip>
           );
         })}
