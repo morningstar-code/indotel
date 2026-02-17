@@ -5,7 +5,6 @@ import Header from "@/components/Header";
 import CountrySelector from "@/components/CountrySelector";
 import CategoryTabs from "@/components/CategoryTabs";
 import ComparisonPanel from "@/components/ComparisonPanel";
-import AIRecommendations from "@/components/AIRecommendations";
 import AnalyticsDashboard from "@/components/AnalyticsDashboard";
 import ComparisonTable from "@/components/ComparisonTable";
 import ExecutiveSummary from "@/components/ExecutiveSummary";
@@ -171,11 +170,6 @@ export default function Home() {
 
               <aside id="ai-panel" className="space-y-4 xl:col-span-4">
                 <div className="xl:sticky xl:top-6">
-                  <AIRecommendations
-                    countryA={countryA}
-                    countryB={countryB}
-                    category={selectedCategory}
-                  />
                   <ComparisonChatBox
                     countryA={countryA}
                     countryB={countryB}
