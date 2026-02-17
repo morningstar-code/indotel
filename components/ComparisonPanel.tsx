@@ -133,17 +133,17 @@ export default function ComparisonPanel({
   const similarities = getSimilarities(practiceA, practiceB);
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-8 md:space-y-10">
       {/* Título de la categoría */}
-      <div className="bg-sky-50 rounded-xl border border-sky-200 p-5 shadow-sm">
-        <h2 className="text-2xl font-bold text-sky-900">{category}</h2>
+      <div className="rounded-2xl border border-sky-200 bg-sky-50 p-6 shadow-sm md:p-8">
+        <h2 className="text-2xl font-bold tracking-tight text-sky-900 md:text-3xl">{category}</h2>
       </div>
 
-      {/* Tarjetas de países */}
-      <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+      {/* Tarjetas de países: una columna hasta lg para evitar columnas estrechas */}
+      <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-10">
         {/* País A */}
-        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-sky-200 md:p-8 p-6">
-          <div className="mb-5 flex items-center gap-3 border-b border-slate-100 pb-4">
+        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-all hover:border-sky-200 md:p-8 lg:p-10">
+          <div className="mb-6 flex items-center gap-3 border-b border-slate-100 pb-5">
             <CountryFlag flag={countryA.flag} size="lg" />
             <h3 className="text-lg font-bold text-slate-900">{countryA.name}</h3>
             {countrySources[countryA.id] && (
@@ -193,7 +193,7 @@ export default function ComparisonPanel({
               const isExpanded = showDetailsA && practiceA.details && practiceA.details !== practiceA.summary;
               return (
                 <>
-                  <div className={isExpanded ? "space-y-4 text-[15px] leading-[1.7] text-slate-800" : "text-slate-800 leading-relaxed"}>
+                  <div className={isExpanded ? "max-w-prose space-y-5 text-base leading-[1.8] text-slate-800 md:space-y-6" : "max-w-prose text-slate-800 leading-relaxed"}>
                     {paragraphs.length > 1 ? (
                       paragraphs.map((para, i) => (
                         <p key={i} className="text-justify">{para.trim()}</p>
@@ -203,11 +203,11 @@ export default function ComparisonPanel({
                     )}
                   </div>
                   {practiceA.details && practiceA.details !== practiceA.summary && (
-                    <div className="mt-5 pt-4 border-t border-slate-100">
+                    <div className="mt-6 border-t border-slate-100 pt-5">
                       <button
                         type="button"
                         onClick={() => setShowDetailsA((prev) => !prev)}
-                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-4 py-2.5 text-sm font-semibold text-sky-800 transition-colors hover:bg-sky-100 hover:border-sky-300"
+                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-5 py-3 text-sm font-semibold text-sky-800 transition-colors hover:border-sky-300 hover:bg-sky-100"
                         aria-expanded={showDetailsA}
                       >
                         {showDetailsA ? "Ocultar detalles" : "Ver texto completo"}
@@ -219,15 +219,15 @@ export default function ComparisonPanel({
             })()}
           </div>
           {countrySources[countryA.id]?.confidence !== "real-complete" && (
-            <div className="mt-5 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-4 py-3 text-[0.8rem] leading-relaxed text-amber-900">
+            <div className="mt-6 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-5 py-4 text-[0.8rem] leading-relaxed text-amber-900">
               Aviso: esta ficha debe validarse con la documentación oficial antes de usarse en informes formales.
             </div>
           )}
         </div>
 
         {/* País B */}
-        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-sky-200 md:p-8 p-6">
-          <div className="mb-5 flex items-center gap-3 border-b border-slate-100 pb-4">
+        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition-all hover:border-sky-200 md:p-8 lg:p-10">
+          <div className="mb-6 flex items-center gap-3 border-b border-slate-100 pb-5">
             <CountryFlag flag={countryB.flag} size="lg" />
             <h3 className="text-lg font-bold text-slate-900">{countryB.name}</h3>
             {countrySources[countryB.id] && (
@@ -277,7 +277,7 @@ export default function ComparisonPanel({
               const isExpanded = showDetailsB && practiceB.details && practiceB.details !== practiceB.summary;
               return (
                 <>
-                  <div className={isExpanded ? "space-y-4 text-[15px] leading-[1.7] text-slate-800" : "text-slate-800 leading-relaxed"}>
+                  <div className={isExpanded ? "max-w-prose space-y-5 text-base leading-[1.8] text-slate-800 md:space-y-6" : "max-w-prose text-slate-800 leading-relaxed"}>
                     {paragraphs.length > 1 ? (
                       paragraphs.map((para, i) => (
                         <p key={i} className="text-justify">{para.trim()}</p>
@@ -287,11 +287,11 @@ export default function ComparisonPanel({
                     )}
                   </div>
                   {practiceB.details && practiceB.details !== practiceB.summary && (
-                    <div className="mt-5 pt-4 border-t border-slate-100">
+                    <div className="mt-6 border-t border-slate-100 pt-5">
                       <button
                         type="button"
                         onClick={() => setShowDetailsB((prev) => !prev)}
-                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-4 py-2.5 text-sm font-semibold text-sky-800 transition-colors hover:bg-sky-100 hover:border-sky-300"
+                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-5 py-3 text-sm font-semibold text-sky-800 transition-colors hover:border-sky-300 hover:bg-sky-100"
                         aria-expanded={showDetailsB}
                       >
                         {showDetailsB ? "Ocultar detalles" : "Ver texto completo"}
@@ -303,7 +303,7 @@ export default function ComparisonPanel({
             })()}
           </div>
           {countrySources[countryB.id]?.confidence !== "real-complete" && (
-            <div className="mt-5 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-4 py-3 text-[0.8rem] leading-relaxed text-amber-900">
+            <div className="mt-6 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-5 py-4 text-[0.8rem] leading-relaxed text-amber-900">
               Aviso: esta ficha debe validarse con la documentación oficial antes de usarse en informes formales.
             </div>
           )}
@@ -312,12 +312,12 @@ export default function ComparisonPanel({
 
       {/* Similitudes */}
       {similarities.common.length > 0 && (
-        <div className="bg-emerald-50 rounded-xl border border-emerald-200 p-6 shadow-sm">
-          <h3 className="text-lg font-bold text-emerald-800 mb-4 flex items-center">
+        <div className="rounded-2xl border border-emerald-200 bg-emerald-50 p-7 shadow-sm md:p-8">
+          <h3 className="mb-5 flex items-center text-lg font-bold text-emerald-800">
             <span className="mr-2">✓</span>
             Similitudes
           </h3>
-          <ul className="space-y-2">
+          <ul className="space-y-3">
             {similarities.common.map((tag, index) => (
               <li key={index} className="flex items-start">
                 <span className="text-emerald-700 mr-3 font-bold">•</span>
@@ -332,13 +332,13 @@ export default function ComparisonPanel({
       )}
 
       {/* Diferencias */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-10">
         {similarities.onlyA.length > 0 && (
-          <div className="bg-sky-50 rounded-xl border border-sky-200 p-6 shadow-sm">
-            <h3 className="text-lg font-bold text-sky-900 mb-4">
+          <div className="rounded-2xl border border-sky-200 bg-sky-50 p-7 shadow-sm md:p-8">
+            <h3 className="mb-5 text-lg font-bold text-sky-900">
               Elementos únicos de {countryA.name}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               {similarities.onlyA.map((tag, index) => (
                 <li key={index} className="flex items-start">
                   <span className="text-sky-700 mr-3 font-bold">•</span>
@@ -363,11 +363,11 @@ export default function ComparisonPanel({
         )}
 
         {similarities.onlyB.length > 0 && (
-          <div className="bg-indigo-50 rounded-xl border border-indigo-200 p-6 shadow-sm">
-            <h3 className="text-lg font-bold text-indigo-900 mb-4">
+          <div className="rounded-2xl border border-indigo-200 bg-indigo-50 p-7 shadow-sm md:p-8">
+            <h3 className="mb-5 text-lg font-bold text-indigo-900">
               Elementos únicos de {countryB.name}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               {similarities.onlyB.map((tag, index) => (
                 <li key={index} className="flex items-start">
                   <span className="text-indigo-700 mr-3 font-bold">•</span>
