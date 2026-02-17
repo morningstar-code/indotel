@@ -140,23 +140,19 @@ export default function ComparisonPanel({
       </div>
 
       {/* Tarjetas de países */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
         {/* País A */}
-        <div className="bg-white rounded-xl border border-slate-200 p-6 shadow-sm hover:border-sky-500 transition-all">
-          <div className="flex items-center space-x-2 mb-3">
+        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-sky-200 md:p-8 p-6">
+          <div className="mb-5 flex items-center gap-3 border-b border-slate-100 pb-4">
             <CountryFlag flag={countryA.flag} size="lg" />
-            <h3 className="text-lg font-bold text-slate-900">
-              {countryA.name}
-            </h3>
+            <h3 className="text-lg font-bold text-slate-900">{countryA.name}</h3>
             {countrySources[countryA.id] && (
               <InfoTooltip
                 hideFooter
                 content={
                   <div>
-                    <p className="font-semibold text-slate-900 mb-1">
-                      Fuente de la información
-                    </p>
-                    <p className="text-slate-700 mb-2">
+                    <p className="mb-1 font-semibold text-slate-900">Fuente de la información</p>
+                    <p className="mb-2 text-slate-700">
                       {countrySources[countryA.id].confidence === "real-complete" &&
                         "Descripción sintetizada a partir de la ficha oficial de REGULATEL para este país."}
                       {countrySources[countryA.id].confidence === "real-partial" &&
@@ -166,18 +162,11 @@ export default function ComparisonPanel({
                     </p>
                     {categorySourcesA && categorySourcesA.length > 0 && (
                       <div className="mb-2 text-[0.7rem] text-slate-700">
-                        <p className="font-semibold mb-1">
-                          Documentos normativos clave para &quot;{category}&quot;:
-                        </p>
+                        <p className="mb-1 font-semibold">Documentos normativos clave para &quot;{category}&quot;:</p>
                         <ul className="list-disc list-inside space-y-1">
                           {categorySourcesA.map((src) => (
                             <li key={src.url} className="truncate">
-                              <a
-                                href={src.url}
-                                target="_blank"
-                                rel="noreferrer"
-                                className="text-sky-700 hover:text-sky-900 underline"
-                              >
+                              <a href={src.url} target="_blank" rel="noreferrer" className="text-sky-700 underline hover:text-sky-900">
                                 {src.title}
                               </a>
                             </li>
@@ -185,63 +174,69 @@ export default function ComparisonPanel({
                         </ul>
                       </div>
                     )}
-                    <a
-                      href={countrySources[countryA.id].url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="text-sky-700 hover:text-sky-900 underline font-semibold"
-                    >
+                    <a href={countrySources[countryA.id].url} target="_blank" rel="noreferrer" className="font-semibold text-sky-700 underline hover:text-sky-900">
                       Ver ficha completa en REGULATEL ({countrySources[countryA.id].label})
                     </a>
                   </div>
                 }
               >
-                <button
-                  type="button"
-                  className="inline-flex items-center justify-center h-5 w-5 rounded-full border border-slate-500 bg-slate-900 text-[0.65rem] text-slate-200 hover:bg-slate-800 hover:text-white"
-                  aria-label="Ver fuente de datos"
-                >
+                <button type="button" className="inline-flex h-6 w-6 items-center justify-center rounded-full border border-slate-400 bg-slate-700 text-[0.65rem] font-medium text-white hover:bg-slate-600" aria-label="Ver fuente de datos">
                   i
                 </button>
               </InfoTooltip>
             )}
           </div>
-          <p className="text-slate-800 leading-relaxed mb-2">
-            {showDetailsA ? practiceA.details : practiceA.summary}
-          </p>
-          {practiceA.details && practiceA.details !== practiceA.summary && (
-            <button
-              type="button"
-              onClick={() => setShowDetailsA((prev) => !prev)}
-              className="text-xs font-semibold text-blue-300 hover:text-blue-200 underline mb-2"
-              aria-expanded={showDetailsA}
-            >
-              {showDetailsA ? "Leer menos" : "Leer más"}
-            </button>
-          )}
+          <div className="min-w-0 flex-1">
+            {(() => {
+              const text = showDetailsA ? practiceA.details : practiceA.summary;
+              const paragraphs = text.split(/\n\n+/).filter(Boolean);
+              const isExpanded = showDetailsA && practiceA.details && practiceA.details !== practiceA.summary;
+              return (
+                <>
+                  <div className={isExpanded ? "space-y-4 text-[15px] leading-[1.7] text-slate-800" : "text-slate-800 leading-relaxed"}>
+                    {paragraphs.length > 1 ? (
+                      paragraphs.map((para, i) => (
+                        <p key={i} className="text-justify">{para.trim()}</p>
+                      ))
+                    ) : (
+                      <p className="text-justify">{text}</p>
+                    )}
+                  </div>
+                  {practiceA.details && practiceA.details !== practiceA.summary && (
+                    <div className="mt-5 pt-4 border-t border-slate-100">
+                      <button
+                        type="button"
+                        onClick={() => setShowDetailsA((prev) => !prev)}
+                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-4 py-2.5 text-sm font-semibold text-sky-800 transition-colors hover:bg-sky-100 hover:border-sky-300"
+                        aria-expanded={showDetailsA}
+                      >
+                        {showDetailsA ? "Ocultar detalles" : "Ver texto completo"}
+                      </button>
+                    </div>
+                  )}
+                </>
+              );
+            })()}
+          </div>
           {countrySources[countryA.id]?.confidence !== "real-complete" && (
-            <p className="text-[0.7rem] text-amber-300/80">
+            <div className="mt-5 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-4 py-3 text-[0.8rem] leading-relaxed text-amber-900">
               Aviso: esta ficha debe validarse con la documentación oficial antes de usarse en informes formales.
-            </p>
+            </div>
           )}
         </div>
 
         {/* País B */}
-        <div className="bg-white rounded-xl border border-slate-200 p-6 shadow-sm hover:border-sky-500 transition-all">
-          <div className="flex items-center space-x-2 mb-3">
+        <div className="flex flex-col rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-sky-200 md:p-8 p-6">
+          <div className="mb-5 flex items-center gap-3 border-b border-slate-100 pb-4">
             <CountryFlag flag={countryB.flag} size="lg" />
-            <h3 className="text-lg font-bold text-slate-900">
-              {countryB.name}
-            </h3>
+            <h3 className="text-lg font-bold text-slate-900">{countryB.name}</h3>
             {countrySources[countryB.id] && (
               <InfoTooltip
                 hideFooter
                 content={
                   <div>
-                    <p className="font-semibold text-slate-900 mb-1">
-                      Fuente de la información
-                    </p>
-                    <p className="text-slate-700 mb-2">
+                    <p className="mb-1 font-semibold text-slate-900">Fuente de la información</p>
+                    <p className="mb-2 text-slate-700">
                       {countrySources[countryB.id].confidence === "real-complete" &&
                         "Descripción sintetizada a partir de la ficha oficial de REGULATEL para este país."}
                       {countrySources[countryB.id].confidence === "real-partial" &&
@@ -251,18 +246,11 @@ export default function ComparisonPanel({
                     </p>
                     {categorySourcesB && categorySourcesB.length > 0 && (
                       <div className="mb-2 text-[0.7rem] text-slate-700">
-                        <p className="font-semibold mb-1">
-                          Documentos normativos clave para &quot;{category}&quot;:
-                        </p>
+                        <p className="mb-1 font-semibold">Documentos normativos clave para &quot;{category}&quot;:</p>
                         <ul className="list-disc list-inside space-y-1">
                           {categorySourcesB.map((src) => (
                             <li key={src.url} className="truncate">
-                              <a
-                                href={src.url}
-                                target="_blank"
-                                rel="noreferrer"
-                                className="text-sky-700 hover:text-sky-900 underline"
-                              >
+                              <a href={src.url} target="_blank" rel="noreferrer" className="text-sky-700 underline hover:text-sky-900">
                                 {src.title}
                               </a>
                             </li>
@@ -270,44 +258,54 @@ export default function ComparisonPanel({
                         </ul>
                       </div>
                     )}
-                    <a
-                      href={countrySources[countryB.id].url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="text-sky-700 hover:text-sky-900 underline font-semibold"
-                    >
+                    <a href={countrySources[countryB.id].url} target="_blank" rel="noreferrer" className="font-semibold text-sky-700 underline hover:text-sky-900">
                       Ver ficha completa en REGULATEL ({countrySources[countryB.id].label})
                     </a>
                   </div>
                 }
               >
-                <button
-                  type="button"
-                  className="inline-flex items-center justify-center h-5 w-5 rounded-full border border-slate-500 bg-slate-900 text-[0.65rem] text-slate-200 hover:bg-slate-800 hover:text-white"
-                  aria-label="Ver fuente de datos"
-                >
+                <button type="button" className="inline-flex h-6 w-6 items-center justify-center rounded-full border border-slate-400 bg-slate-700 text-[0.65rem] font-medium text-white hover:bg-slate-600" aria-label="Ver fuente de datos">
                   i
                 </button>
               </InfoTooltip>
             )}
           </div>
-          <p className="text-slate-800 leading-relaxed mb-2">
-            {showDetailsB ? practiceB.details : practiceB.summary}
-          </p>
-          {practiceB.details && practiceB.details !== practiceB.summary && (
-            <button
-              type="button"
-              onClick={() => setShowDetailsB((prev) => !prev)}
-              className="text-xs font-semibold text-blue-300 hover:text-blue-200 underline mb-2"
-              aria-expanded={showDetailsB}
-            >
-              {showDetailsB ? "Leer menos" : "Leer más"}
-            </button>
-          )}
+          <div className="min-w-0 flex-1">
+            {(() => {
+              const text = showDetailsB ? practiceB.details : practiceB.summary;
+              const paragraphs = text.split(/\n\n+/).filter(Boolean);
+              const isExpanded = showDetailsB && practiceB.details && practiceB.details !== practiceB.summary;
+              return (
+                <>
+                  <div className={isExpanded ? "space-y-4 text-[15px] leading-[1.7] text-slate-800" : "text-slate-800 leading-relaxed"}>
+                    {paragraphs.length > 1 ? (
+                      paragraphs.map((para, i) => (
+                        <p key={i} className="text-justify">{para.trim()}</p>
+                      ))
+                    ) : (
+                      <p className="text-justify">{text}</p>
+                    )}
+                  </div>
+                  {practiceB.details && practiceB.details !== practiceB.summary && (
+                    <div className="mt-5 pt-4 border-t border-slate-100">
+                      <button
+                        type="button"
+                        onClick={() => setShowDetailsB((prev) => !prev)}
+                        className="inline-flex items-center gap-2 rounded-xl border border-sky-200 bg-sky-50 px-4 py-2.5 text-sm font-semibold text-sky-800 transition-colors hover:bg-sky-100 hover:border-sky-300"
+                        aria-expanded={showDetailsB}
+                      >
+                        {showDetailsB ? "Ocultar detalles" : "Ver texto completo"}
+                      </button>
+                    </div>
+                  )}
+                </>
+              );
+            })()}
+          </div>
           {countrySources[countryB.id]?.confidence !== "real-complete" && (
-            <p className="text-[0.7rem] text-amber-300/80">
+            <div className="mt-5 rounded-xl border-l-4 border-amber-400 bg-amber-50/90 px-4 py-3 text-[0.8rem] leading-relaxed text-amber-900">
               Aviso: esta ficha debe validarse con la documentación oficial antes de usarse en informes formales.
-            </p>
+            </div>
           )}
         </div>
       </div>
