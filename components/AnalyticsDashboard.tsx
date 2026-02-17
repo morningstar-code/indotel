@@ -160,7 +160,7 @@ export default function AnalyticsDashboard({
             <span className="cursor-help text-slate-400">ⓘ</span>
           </InfoTooltip>
         </div>
-        <div className="space-y-2">
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-2 md:grid-cols-4">
           {categoryScores.map((score) => {
             if (!score) return null;
             const displayName = CATEGORY_LABELS[score.category] ?? score.category;
@@ -198,11 +198,17 @@ export default function AnalyticsDashboard({
 
             return (
               <InfoTooltip key={score.category} hideFooter content={tooltipContent}>
-                <div className="flex cursor-help items-center gap-3 rounded-lg border border-slate-100 bg-slate-50/50 px-3 py-2 transition-colors hover:bg-slate-50">
-                  <span className="w-40 shrink-0 text-sm font-medium text-slate-800">
+                <div className="flex min-h-[100px] cursor-help flex-col justify-between rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm transition-colors hover:border-sky-200 hover:shadow-md">
+                  <span className="line-clamp-2 text-sm font-medium leading-snug text-slate-800">
                     {displayName}
                   </span>
-                  <div className="min-w-0 flex-1">
+                  <div className="mt-3">
+                    <div className="mb-1.5 flex items-center justify-between">
+                      <span className="text-xs text-slate-500">Similitud</span>
+                      <span className="text-sm font-semibold text-slate-700">
+                        {score.similarityScore}%
+                      </span>
+                    </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-slate-200">
                       <div
                         className="h-full rounded-full bg-sky-500 transition-all duration-300"
@@ -212,9 +218,6 @@ export default function AnalyticsDashboard({
                       />
                     </div>
                   </div>
-                  <span className="w-10 shrink-0 text-right text-sm font-semibold text-slate-700">
-                    {score.similarityScore}%
-                  </span>
                 </div>
               </InfoTooltip>
             );
