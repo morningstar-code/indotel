@@ -89,12 +89,11 @@ export default function CategoryTabs({
   };
 
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-      <h3 className="mb-1 text-sm font-semibold text-slate-900">Categorías de análisis</h3>
-      <p className="mb-4 text-xs text-slate-500">
-        Selecciona una categoría para actualizar comparación, IA y métricas.
+    <div className="w-full">
+      <p className="mb-3 text-xs font-medium uppercase tracking-wider text-slate-500">
+        Categoría de análisis
       </p>
-      <div className="space-y-2">
+      <div className="flex flex-wrap gap-2">
         {categories.map((category) => {
           const desc = categoryDescriptions[category];
           const paisComparador = countryBName || "el país comparador (B)";
@@ -125,20 +124,15 @@ export default function CategoryTabs({
               <button
                 onClick={() => onSelectCategory(category)}
                 className={`
-                w-full rounded-xl border px-4 py-3 text-left text-sm transition-all
-                ${
-                  selectedCategory === category
-                    ? "border-sky-300 bg-gradient-to-r from-sky-600 to-cyan-500 text-white shadow-sm"
-                    : "border-slate-200 bg-slate-50 text-slate-700 hover:border-sky-200 hover:bg-sky-50/60"
-                }
-              `}
+                  shrink-0 rounded-full px-4 py-2 text-sm font-semibold transition-all
+                  ${
+                    selectedCategory === category
+                      ? "bg-sky-600 text-white shadow-md ring-2 ring-sky-200 ring-offset-2"
+                      : "bg-slate-100 text-slate-700 hover:bg-slate-200 hover:text-slate-900"
+                  }
+                `}
               >
-                <span className="font-semibold">{categoryShortNames[category]}</span>
-                {selectedCategory !== category && (
-                  <span className="block pt-0.5 text-[0.68rem] text-slate-500">
-                    Ver detalles y recomendaciones IA
-                  </span>
-                )}
+                {categoryShortNames[category]}
               </button>
             </InfoTooltip>
           );
@@ -147,5 +141,3 @@ export default function CategoryTabs({
     </div>
   );
 }
-
-

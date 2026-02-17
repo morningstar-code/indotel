@@ -140,50 +140,58 @@ export default function Home() {
         </section>
 
         {countryA && countryB && (
-          <section className="mb-8 space-y-6">
-            <ExecutiveSummary countryA={countryA} countryB={countryB} />
-            <AnalyticsDashboard
-              countryA={countryA}
-              countryB={countryB}
-              allCountries={countries}
-            />
-            <ComparisonTable countryA={countryA} countryB={countryB} />
-          </section>
-        )}
+          <>
+            <section className="mb-8 space-y-6">
+              <ExecutiveSummary countryA={countryA} countryB={countryB} />
+              <AnalyticsDashboard
+                countryA={countryA}
+                countryB={countryB}
+                allCountries={countries}
+              />
+              <ComparisonTable countryA={countryA} countryB={countryB} />
+            </section>
 
-        <div className="grid grid-cols-1 gap-6 xl:grid-cols-12">
-          <aside className="xl:col-span-3">
-            <div className="xl:sticky xl:top-6">
+            <section className="mb-6 rounded-2xl border border-slate-200/80 bg-white/95 p-5 shadow-sm md:p-6">
               <CategoryTabs
                 selectedCategory={selectedCategory}
                 onSelectCategory={setSelectedCategory}
-                countryAName={countryA?.name}
-                countryBName={countryB?.name}
+                countryAName={countryA.name}
+                countryBName={countryB.name}
               />
+            </section>
+
+            <div className="grid grid-cols-1 gap-6 xl:grid-cols-12">
+              <section className="xl:col-span-8">
+                <ComparisonPanel
+                  countryA={countryA}
+                  countryB={countryB}
+                  category={selectedCategory}
+                />
+              </section>
+
+              <aside id="ai-panel" className="space-y-4 xl:col-span-4">
+                <div className="xl:sticky xl:top-6">
+                  <AIRecommendations
+                    countryA={countryA}
+                    countryB={countryB}
+                    category={selectedCategory}
+                  />
+                  <ComparisonChatBox
+                    countryA={countryA}
+                    countryB={countryB}
+                    category={selectedCategory}
+                  />
+                </div>
+              </aside>
             </div>
-          </aside>
+          </>
+        )}
 
-          <section className="xl:col-span-6">
-            <ComparisonPanel
-              countryA={countryA}
-              countryB={countryB}
-              category={selectedCategory}
-            />
+        {(!countryA || !countryB) && (
+          <section className="rounded-2xl border border-slate-200 bg-slate-50 p-10 text-center text-slate-600">
+            <p className="font-medium">Selecciona dos países para ver la comparación por categorías y recomendaciones de IA.</p>
           </section>
-
-          <aside id="ai-panel" className="space-y-4 xl:col-span-3">
-            <AIRecommendations
-              countryA={countryA}
-              countryB={countryB}
-              category={selectedCategory}
-            />
-            <ComparisonChatBox
-              countryA={countryA}
-              countryB={countryB}
-              category={selectedCategory}
-            />
-          </aside>
-        </div>
+        )}
       </main>
     </div>
   );
